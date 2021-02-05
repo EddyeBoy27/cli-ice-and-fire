@@ -1,6 +1,6 @@
 # Boas vindas ao primeiro projeto A CLI of Ice and Fire!
 
-## O que foi desenvolvido ser desenvolvido
+## O que foi desenvolvido
 
 Refatorado parte de um CLI (command line interface) para que, ao invés de utilizar callbacks, seja utilizado apenas Promises. Além disso, foram implementadas mais algumas funcionalidades, consumindo a mesma API que já está sendo consumida.
 
